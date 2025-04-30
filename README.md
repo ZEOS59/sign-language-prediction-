@@ -1,0 +1,1 @@
+this is a project about sign language detection with the use of machine learning,the location of the dataset is "https://drive.google.com/drive/folders/1U9gyxmsJkoC-BOq2eaUlxSmnK8Nu67Eg",you can download the files and extract it.
